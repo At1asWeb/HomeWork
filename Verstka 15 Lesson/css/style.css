@@ -1,0 +1,10 @@
+.text--bold {
+    color: blue;
+    border: 3px solid;
+}
+.child {
+    color: rgb(139, 16, 16);
+}
+a[href="#blog"] {
+    color: #8d0999;
+    }
