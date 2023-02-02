@@ -1,0 +1,12 @@
+.block {
+    width: max;
+    height: 500px;
+    border-radius: 30px;
+    margin: 20px;
+    box-shadow: 0 0 10px 10px;
+    background: url("/111.png"), linear-gradient(rgb(28, 9, 134),rgb(134, 15, 81)) ;
+    overflow: auto;
+    background-attachment:  local;
+    background-position: center;
+    background-repeat: no-repeat;
+} 

@@ -1,0 +1,13 @@
+.text {
+  height: 400px;
+  width: max;
+background-color: rgb(124, 124, 184);
+}
+.text1 {
+  color: rgb(138, 12, 12);
+  padding: 25px 25px 0 25px;
+  min-width: 50%;
+  min-height: 100px;;
+  overflow: auto;
+  
+}
