@@ -1,0 +1,7 @@
+.text {
+  padding: 25px 25px 0 25px;
+  max-width: 50vw;
+  max-height: 50vw;
+  height: 100px;
+  overflow-y: auto;
+}
