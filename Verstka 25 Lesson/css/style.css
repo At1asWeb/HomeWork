@@ -1,0 +1,7 @@
+.vertel {
+    width: 400px;
+    height: 400px;
+    background-color: #af119a;
+    margin: 150px;
+    transform: rotate(-30deg) translateY(10%);
+}

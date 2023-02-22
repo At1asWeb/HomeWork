@@ -1,0 +1,14 @@
+.block {
+    font-size: 8rem;
+    border:solid 5px #333;
+    background-color: #7e1a68;
+    margin: 25px;
+    transition:border-color 3s 2s;
+    /* transition-duration: 3s;
+    transition-delay:2s ; */
+}
+
+.block:hover {
+    border-color: #12b134;
+    
+}
