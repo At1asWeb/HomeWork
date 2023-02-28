@@ -1,0 +1,41 @@
+body {
+    background-color: #645af1;
+}
+
+.flexbox {
+    height: 600px;
+    width: auto;
+    border: solid 5px;
+    margin: 125px;
+    background-color: #fff;
+    display: flex;
+    justify-content:space-between;
+    align-items: center ;
+    flex-wrap: wrap;
+
+}
+.flexbox_item {
+    width: 100px;
+    height: 100px;
+    border: solid 2px;
+}
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.green {
+    background-color: green;
+}
+
+.orange {
+    background-color: orange;
+} 
+
+.yellow {
+    background-color: yellow;
+    
+}

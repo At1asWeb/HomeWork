@@ -1,0 +1,31 @@
+html {
+    background-color: rgb(201, 80, 181);
+}
+
+.parent { 
+    margin: 100px auto; 
+}
+
+.container {
+    max-height: 569px;
+    max-width: 1000px;
+    margin: 0px auto;
+}
+
+.grid {
+    display: grid;
+    /* grid-template: 1fr 1fr/1fr 1fr 1fr;  */
+    grid-template-rows: 50% 50%;
+    grid-template-columns: 1fr 1fr 1fr;
+    
+    
+}
+.grid_item {
+    max-height: 114px;
+    max-width: 1000px;
+    font-size: 40px;
+    text-align: center;
+    padding: 2rem;
+    border: dashed 5px;
+    
+}

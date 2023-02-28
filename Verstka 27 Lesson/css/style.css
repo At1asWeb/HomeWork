@@ -1,0 +1,12 @@
+.text {
+    color: red;
+    animation: move-color 1s infinite ;
+}
+@keyframes move-color {
+    0% { color:red;
+
+    } 
+    100% { color: black;
+
+    }
+}
