@@ -1,0 +1,34 @@
+.title {
+    font-size: 3rem;
+    color: #40c757;
+    margin:400px 400px;
+    display: inline-flex;
+    align-items: center;
+    position: relative;
+
+}
+.title::before {
+    content: "";
+    display: inline-flex;
+    width: 10px;
+    height: 10px;
+    color: rgb(25, 25, 172);
+    border: solid 5px;
+    border-radius: 50%;
+    position: absolute;
+    margin: -10px;
+    
+}
+
+.title::after {
+    content: "";
+    display: inline-flex;
+    width: 10px;
+    height: 10px;
+    color: red;
+    border: solid 5px;
+    border-radius: 50%;
+    position: absolute center;
+    margin: 2px;
+    
+}
